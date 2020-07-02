@@ -1,6 +1,6 @@
-Investigating Texts and Calls
+**Investigating Texts and Calls
 Project Overview
-In this project, you will complete five tasks based on a fabricated set of calls and texts exchanged during September 2016. You will use Python to analyze and answer questions about the texts and calls contained in the dataset. Lastly, you will perform run time analysis of your solution and determine its efficiency.
+In this project, you will complete five tasks based on a fabricated set of calls and texts exchanged during September 2016. You will use Python to analyze and answer questions about the texts and calls contained in the dataset. Lastly, you will perform run time analysis of your solution and determine its efficiency.**
 
 What will I learn?
 In this project, you will:
@@ -37,3 +37,5 @@ The solution outputs for each file should be the print statements described in t
 
 Step 3 - Calculate Big O
 Once you have completed your solution for each problem, perform a run time analysis (Worst Case Big-O Notation) of your solution. Document this for each problem and include this in your submission.
+
+**Have included Udacity_Python.ipynb file where I have done the actual programming**
